@@ -1,0 +1,31 @@
+_repo: John-Gutenberg-First-Master-Printer-His-Acts-and-Most-Remarkable-Discourses-and-his-Death_50000
+contributor:
+  translator:
+    agent_name: Wintour, Caroline
+    gutenberg_agent_id: '37199'
+    url: http://www.gutenberg.org/2009/agents/37199
+creator:
+  author:
+    agent_name: Dingelstedt, Franz von
+    aliases:
+    - Dingelstedt, Franz, Freiherr von
+    - Von Dingelstedt, Franz
+    birthdate: 1814
+    deathdate: 1881
+    gutenberg_agent_id: '45650'
+    url: http://www.gutenberg.org/2009/agents/45650
+description: ''
+gutenberg_issued: '2015-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gutenberg, Johann, 1397?-1468 -- Fiction'
+- !lcc 'PT'
+title: "John Gutenberg, First Master Printer\r\nHis Acts and Most Remarkable Discourses\
+  \ and his Death"
+url: http://www.gutenberg.org/ebooks/50000
