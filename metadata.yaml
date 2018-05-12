@@ -1,9 +1,13 @@
 _repo: John-Gutenberg-First-Master-Printer-His-Acts-and-Most-Remarkable-Discourses-and-his-Death_50000
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wintour, Caroline
     gutenberg_agent_id: '37199'
     url: http://www.gutenberg.org/2009/agents/37199
+covers:
+- cover_type: archival
+  image_path: 50000-h/images/cover.jpg
 creator:
   author:
     agent_name: Dingelstedt, Franz von
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '45650'
     url: http://www.gutenberg.org/2009/agents/45650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50000#John-Gutenberg-First-Master-Printer-His-Acts-and-Most-Remarkable-Discourses-and-his-Death
 gutenberg_issued: '2015-09-17'
 gutenberg_type: Text
 identifiers:
